@@ -1,0 +1,11 @@
+﻿  MemMngr_shepd1.cpp
+d:\users\david\dev\playground\src\memory_manager\memmngr_shepd1.cpp(3): warning C4067: Unerwartete Token nach Präprozessordirektive - Zeilenvorschub erwartet.
+d:\users\david\dev\playground\src\memory_manager\memmngr_shepd1.cpp(26): warning C4477: "printf": Die Formatzeichenfolge "%-20p" erfordert ein Argument vom Typ "void *", das variadic-Argument "1" weist aber den Typ "uint64_t" auf.
+d:\users\david\dev\playground\src\memory_manager\memmngr_shepd1.cpp(26): warning C4313: "printf": "%p" in der Formatzeichenfolge steht mit dem Argument "1" vom Typ "uint64_t" in Konflikt.
+d:\users\david\dev\playground\src\memory_manager\memmngr_shepd1.cpp(104): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+d:\users\david\dev\playground\src\memory_manager\memmngr_shepd1.cpp(104): warning C5043: "operator new": Die Ausnahmespezifikation stimmt nicht mit der vorherigen Deklaration überein.
+  d:\users\david\dev\playground\memory_manager\predefined c++ types (compiler internal)(33): note: Siehe Deklaration von "operator new"
+d:\users\david\dev\playground\src\memory_manager\memmngr_shepd1.cpp(111): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+d:\users\david\dev\playground\src\memory_manager\memmngr_shepd1.cpp(111): warning C5043: "operator new[]": Die Ausnahmespezifikation stimmt nicht mit der vorherigen Deklaration überein.
+  d:\users\david\dev\playground\memory_manager\predefined c++ types (compiler internal)(58): note: Siehe Deklaration von "operator new[]"
+  Memory_Manager.vcxproj -> D:\Users\David\dev\Playground\Playground\Debug\Memory_Manager.exe

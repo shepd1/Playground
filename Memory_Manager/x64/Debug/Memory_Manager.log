@@ -1,0 +1,17 @@
+﻿  MemMngr_shepd1.cpp
+d:\users\david\dev\playground\src\memory_manager\memmngr_shepd1.cpp(3): warning C4067: Unerwartete Token nach Präprozessordirektive - Zeilenvorschub erwartet.
+d:\users\david\dev\playground\src\memory_manager\memmngr_shepd1.cpp(37): warning C4267: "+=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+d:\users\david\dev\playground\src\memory_manager\memmngr_shepd1.cpp(46): warning C4267: "+=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+d:\users\david\dev\playground\src\memory_manager\memmngr_shepd1.cpp(27): warning C4477: "printf": Die Formatzeichenfolge "%-8u" erfordert ein Argument vom Typ "unsigned int", das variadic-Argument "1" weist aber den Typ "::size_t" auf.
+  d:\users\david\dev\playground\src\memory_manager\memmngr_shepd1.cpp(27): note: Verwenden Sie ggf. "%zu" in der Formatzeichenfolge.
+d:\users\david\dev\playground\src\memory_manager\memmngr_shepd1.cpp(28): warning C4477: "printf": Die Formatzeichenfolge "%-20p" erfordert ein Argument vom Typ "void *", das variadic-Argument "1" weist aber den Typ "uint64_t" auf.
+d:\users\david\dev\playground\src\memory_manager\memmngr_shepd1.cpp(41): warning C4477: "snprintf": Die Formatzeichenfolge "%-18p" erfordert ein Argument vom Typ "void *", das variadic-Argument "2" weist aber den Typ "uint64_t" auf.
+d:\users\david\dev\playground\src\memory_manager\memmngr_shepd1.cpp(41): warning C4477: "snprintf": Die Formatzeichenfolge "%-8u" erfordert ein Argument vom Typ "unsigned int", das variadic-Argument "3" weist aber den Typ "::size_t" auf.
+  d:\users\david\dev\playground\src\memory_manager\memmngr_shepd1.cpp(41): note: Verwenden Sie ggf. "%zu" in der Formatzeichenfolge.
+d:\users\david\dev\playground\src\memory_manager\memmngr_shepd1.cpp(123): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+d:\users\david\dev\playground\src\memory_manager\memmngr_shepd1.cpp(123): warning C5043: "operator new": Die Ausnahmespezifikation stimmt nicht mit der vorherigen Deklaration überein.
+  d:\users\david\dev\playground\memory_manager\predefined c++ types (compiler internal)(33): note: Siehe Deklaration von "operator new"
+d:\users\david\dev\playground\src\memory_manager\memmngr_shepd1.cpp(130): warning C4290: C++-Ausnahmespezifikation ignoriert, es sei denn, es wird angezeigt, dass eine Funktion nicht __declspec(nothrow) ist
+d:\users\david\dev\playground\src\memory_manager\memmngr_shepd1.cpp(130): warning C5043: "operator new[]": Die Ausnahmespezifikation stimmt nicht mit der vorherigen Deklaration überein.
+  d:\users\david\dev\playground\memory_manager\predefined c++ types (compiler internal)(58): note: Siehe Deklaration von "operator new[]"
+  Memory_Manager.vcxproj -> D:\Users\David\dev\Playground\Playground\x64\Debug\Memory_Manager.exe
